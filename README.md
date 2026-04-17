@@ -1,6 +1,8 @@
 <h1 align="center">Greetings 👋, I'm Vaibhav Saini</h1>
 I'm a Computer Science student at UMass Boston with experience in software and web development. I enjoy building projects that focus on clear design, solid implementation, and practical problem-solving.
 
+![View Counter](https://komarev.com/ghpvc/?username=vaibhav-saini-dev&color=green)
+
 ### What I work with
 - Programming Languages: Java, C, Python, JavaScript, C++
 - Web Technologies: HTML, CSS, React
