@@ -5,8 +5,9 @@
 I'm a Computer Science student at UMass Boston with experience in software and web development. I enjoy building projects that focus on clear design, solid implementation, and practical problem-solving.
 
 ### What I work with
-- Programming Languages: Java, C, Python, JavaScript, C++
-- Web Technologies: HTML, CSS, React
+- Programming Languages: Java, C, Python, JavaScript, C++, C#, SQL, 
+- Web Technologies: HTML, CSS, React, Next.js, FramerMotion, Vite, Bootstrap
+- Game Development: Unity, Photon Engine
 - Core Concepts: Data Structures & Algorithms, Object-Oriented Programming, Debugging
 
 ### Projects
@@ -21,3 +22,5 @@ Selected projects are pinned below. More work can be found throughout my reposit
 - Continuing coursework in Computer Science
 - Improving my skills through personal projects and hands-on development
 - Exploring opportunities to apply my skills in real-world software engineering roles
+- Working on my portfolio website
+- Sharpening my LeetCode skills
