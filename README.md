@@ -7,6 +7,7 @@ I'm a Computer Science student at UMass Boston with experience in software and w
 ### What I work with
 - Programming Languages: Java, C, Python, JavaScript, C++, C#, SQL, 
 - Web Technologies: HTML, CSS, React, Next.js, FramerMotion, Vite, Bootstrap
+- Database: SQL, Postgresql, Firebase, DJango
 - Game Development: Unity, Photon Engine
 - Core Concepts: Data Structures & Algorithms, Object-Oriented Programming, Debugging
 
